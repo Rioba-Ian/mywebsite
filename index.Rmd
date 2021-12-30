@@ -1,0 +1,42 @@
+---
+title: "Rioba Ian"
+image: "PXL_20210919_153410229.NIGHT~2.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/rioba-ian-186465136/"
+  - label: My Portfolio
+    url: "https://medium.com/"
+  - label: Github
+    url: "https://github.com/Rioba-Ian"
+  - label: Twitter
+    url: "https://twitter.com/rioba-riri"
+output:
+  postcards::solana
+---
+ 
+# Bio
+
+👋 Hello! I am a machine learning engineer and also a self taught software developer. I have 2 years of experience of working in the data analytics as well as specializing in deep learning models. I am most familiar with the Python and R programming languages as well as their web development libraries such as Flask, Django and Rshiny. Currently, I am also involved in backend development of server APIs and cloud applications using Java, NodeJs, C# and Kotlin. 
+
+## Education
+
+**Jenga School** | Nairobi, Kenya
+
+Software Engineering | November 2015 - Present
+
+**Jomo Kenyatta University of Agriculture and Technology** | Juja, Kiambu, Kenya
+
+B.Sc Financial Engineering | August 2016 - November 2020
+
+## Experience
+
+**Freelance** | Machine Learning Engineer Consultant | January 2020 - Present
+
+**TriPesa** | Senior Data Scientist | November 2021 - Present
+
+**Guru Analytics** | Data Scientist | Feb 2021 - Present
+
+### Contacts
+**Email** | riobafelix@gmail.com
+
+**Telephone** | +254700482309
